@@ -1,4 +1,4 @@
-# Data_structures
+## Implementation of Soet command. (Exaternal Soet)
 run make command 
 and run the code as follows
 ./mysortt -option filenames
