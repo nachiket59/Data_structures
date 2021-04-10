@@ -1,4 +1,4 @@
-## Implementation of Sort command. (Exaternal Soet)
+## Implementation of Sort command. (Exaternal Sort)
 run make command 
 and run the code as follows
 ./mysortt -option filenames
